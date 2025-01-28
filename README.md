@@ -42,3 +42,10 @@ A thoughtfully designed contact section encourages visitors to reach out.
 It includes a contact form with fields for name, email, and message, as well as links to social profiles such as LinkedIn, GitHub, and Twitter.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/71faef94-fe4d-445a-b849-ab6cfe3a1ee8)
+
+![Image](https://github.com/user-attachments/assets/4e5472d7-f432-4821-b5c1-318f7db11aa2)
+
+![Image](https://github.com/user-attachments/assets/f88871d1-2bed-4216-b7ca-457ecb7245f6)
+
+![Image](https://github.com/user-attachments/assets/99c3bf6d-9c9e-4bdd-9a21-16827919f76e)
